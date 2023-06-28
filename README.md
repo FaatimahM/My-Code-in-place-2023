@@ -1,4 +1,8 @@
-# My-Code-in-place-2023
+# Code in Place 2023
+
+
+<img align = 'right' src="stanfordlogo.gif"  width="100" height="100">
+
 
 Code in Place is an introduction to programming course that covers the material from the first half of Stanford's CS106A Programming Methodologies. The class emphasizes the fundamentals of programming including: control flow, loops and conditionals, console programs with variables, graphics, lists and dictionaries. The course is taught in the Python programming language.
 
